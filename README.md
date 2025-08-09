@@ -13,37 +13,36 @@
 - Member 2: Sarathkumar K - VAST Thrissur
 
 ### Project Description
-[2-3 lines about what your project does]
+Skyggle! is a delightfully themed web application that identifies what shapes clouds look like using AI. Upload a cloud photo and discover if that fluffy formation resembles a dog, castle, or elephant - bringing back the childhood joy of cloud-gazing with modern AI magic!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People have lost the ancient art of cloud-gazing and need AI to tell them what obvious shapes they're looking at in the sky! Gone are the days when humans could look up and say "that cloud looks like a bunny" - now we need artificial intelligence to point out the obvious.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Skyggle! uses Google's Gemini AI to analyze cloud photos and tell you exactly what shapes those clouds resemble. Complete with an atmospheric cloud-filled interface that makes you feel like you're floating in the sky while getting AI insights about... clouds. Because why trust your imagination when you can trust a robot?
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **API**: Google Gemini AI API for cloud shape recognition
+- **Styling**: CSS animations, Flexbox, backdrop filters, responsive design
+- **Fonts**: Google Fonts (Inter & Quicksand for that airy feel)
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. Clone the repository
+2. Get your Google Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+3. Set up your API key in script.js:
+4. Ensure all files (index.html, styles.css, script.js) are in the same directory
 
 # Run
-[commands]
+- Use LiveServer Plugin in VS Code for local development
+- Or open index.html directly in any modern web browser
+- For deployment: Upload to GitHub Pages or any static hosting service
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -59,37 +58,12 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
