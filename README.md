@@ -58,6 +58,9 @@ For Software:
 ![Workflow](images/wrkflow.png)
 *User uploads cloud photo → Gemini AI analyzes → Shape identification results displayed with floating animations*
 
+## Team Contributions
+- **Megha V Nair**: Frontend design, CSS cloud animations, responsive layout, UI/UX design
+- **Sarathkumar K**: JavaScript functionality, Gemini AI integration, image processing, API handling
 
 ### Project Demo
 # Video
