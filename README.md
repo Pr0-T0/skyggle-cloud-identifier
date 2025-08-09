@@ -62,7 +62,7 @@ For Software:
 ### Project Demo
 # Video
 <video width="700" controls>
-  <source src="images/vid.webm" type="video/mp4">
+  <source src="images/vid.webm" type="video/webm">
 </video>
 
 
