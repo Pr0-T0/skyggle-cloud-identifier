@@ -45,8 +45,8 @@ For Software:
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+HomePage(images/s1.png)
+*The main Skyggle! interface with 8 animated clouds floating across a gradient sky*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
