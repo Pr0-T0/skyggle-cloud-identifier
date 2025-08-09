@@ -45,24 +45,25 @@ For Software:
 
 
 # Screenshots (Add at least 3)
-HomePage(images/s1.png)
+![HomePage](images/s1.png)
 *The main Skyggle! interface with 8 animated clouds floating across a gradient sky*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Upload](images/s3.png)
+*User uploading a photo of clouds with drag-and-drop functionality*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Result](images/s2.png)
+*Gemini AI identifying cloud shapes: "This cloud formation resembles a majestic dragon soaring through the sky"*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](images/wrkflow.png)
+*User uploads cloud photo → Gemini AI analyzes → Shape identification results displayed with floating animations*
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<video width="700" controls>
+  <source src="images/vid.webm" type="video/mp4">
+</video>
 
 
 ---
