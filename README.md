@@ -63,10 +63,7 @@ For Software:
 - **Sarathkumar K**: JavaScript functionality, Gemini AI integration, image processing, API handling
 
 ### Project Demo
-# Video
-<video width="700" controls>
-  <source src="images/vid.webm" type="video/webm">
-</video>
+![Demo](images/vid.gif)
 
 
 ---
