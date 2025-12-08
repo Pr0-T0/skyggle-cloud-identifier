@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
 
 // ⚠️ For testing only — don't expose your key in production
-const API_KEY = "AIzaSyBwhzvtqjHPMFjpOBYhYW_KR9PrG1RNBsA";
+const API_KEY = "YOUR_KEY";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 document.addEventListener('DOMContentLoaded', function() {
